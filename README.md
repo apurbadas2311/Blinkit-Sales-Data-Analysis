@@ -45,5 +45,5 @@ Designed and implemented front-end dashboards to provide real-time insights and 
 
 Technologies Used:
 Power BI
-Data Analysis and Visualization Techniques
+Data Analysis and Visualization Techniques,
 SQL for Data Querying
